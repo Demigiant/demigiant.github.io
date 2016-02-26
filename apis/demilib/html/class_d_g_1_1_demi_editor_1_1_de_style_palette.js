@@ -1,0 +1,28 @@
+var class_d_g_1_1_demi_editor_1_1_de_style_palette =
+[
+    [ "box", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a4749c58d36578c3c2f5bf3a57c67a8cc", null ],
+    [ "button", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a69d5b27134401c82f1f9880e3263b1b1", null ],
+    [ "initialized", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a0c68ba06b412d3b7dfbcdffdeff9fcf7", null ],
+    [ "label", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#aac182ed7dd3c17e780556bfe4179b4db", null ],
+    [ "misc", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a437e46d6232279a90a3249cb591695bf", null ],
+    [ "toolbar", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#ab41e7254307a8092608bd6094132b6e2", null ],
+    [ "_adbImgsDir", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a3b8682b2566f733b00886fecfb0ebf7d", null ],
+    [ "blackSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a0e2af4b3e1a9688f19befb824747633c", null ],
+    [ "blackSquareAlpha10", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#adfd21184234723c81a650fefdd884cdc", null ],
+    [ "blackSquareAlpha15", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#ad0ea5c8e3ffa54bba77c0b4377f6fb72", null ],
+    [ "blackSquareAlpha25", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#aa00c0a01f4dab83e9761d0fb773e2bc3", null ],
+    [ "blackSquareAlpha50", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a194002e5d04f4cc68ac264de7d96cc7a", null ],
+    [ "blackSquareAlpha80", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a454ef90e3d39ab5a792ca2d0f6fc5935", null ],
+    [ "blueSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a8260626d9379c5e51f4675713d6a8418", null ],
+    [ "greenSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a772a19b41e96dcf3dd59bbdb04b07f7c", null ],
+    [ "orangeSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a67e46b0d24061072e0a2dd367a70789c", null ],
+    [ "purpleSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a852ee807907c99c4640394a28a91bb8b", null ],
+    [ "redSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#adcb1de7b7fe5b944903278ea2495452f", null ],
+    [ "whiteSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#aac5ae7de9a568f582be412b39ce65de7", null ],
+    [ "whiteSquareAlpha10", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#ad7a6b1cda001ce7827b1bf9260eb0303", null ],
+    [ "whiteSquareAlpha15", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a5ab44bc91ed3bea8f30e9b1b6abf2ad0", null ],
+    [ "whiteSquareAlpha25", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#ac1b4cb2cbc37a220e4d64b493cc2399c", null ],
+    [ "whiteSquareAlpha50", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a3f496f98644da87b0c2bf6ecb9d7ab49", null ],
+    [ "whiteSquareAlpha80", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#a97b76f329e3b3464f4363e40b4813bc1", null ],
+    [ "yellowSquare", "class_d_g_1_1_demi_editor_1_1_de_style_palette.html#af036b44863ab0e84b2109969b8a7a994", null ]
+];
